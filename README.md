@@ -13,7 +13,7 @@
 
 ## 使用方法
 
-1. 直接访问：[在线使用](#https://github.com/jinzsay/photo_yasuo) 
+1. 直接访问：[在线使用](https://jinzsay.github.io/photo_yasuo) 
 2. 本地使用：
    - 下载本项目代码
    - 直接用浏览器打开 index.html 文件
